@@ -1,0 +1,1 @@
+parser.add_argument('--style_dir', type=str, default='C:\Users\yamin\OneDrive\Desktop\NST_Code\NST_Code\style_data', help='Location of style dataset')
